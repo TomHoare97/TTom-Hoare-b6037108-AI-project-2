@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Tom Hoare\source\repos\AIProject2\AIProject2\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Tom Hoare\source\repos\AIProject2\AIProject2\Source.cpp(58,44): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+C:\Users\Tom Hoare\source\repos\AIProject2\AIProject2\Source.cpp(137,13): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Tom Hoare\source\repos\AIProject2\AIProject2\Source.cpp(151,36): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Tom Hoare\source\repos\AIProject2\AIProject2\Source.cpp(153,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tom Hoare\source\repos\AIProject2\AIProject2\Source.cpp(183,64): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tom Hoare\source\repos\AIProject2\AIProject2\Source.cpp(231,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tom Hoare\source\repos\AIProject2\AIProject2\Source.cpp(240,20): warning C4018: '<': signed/unsigned mismatch
+  AIProject2.vcxproj -> C:\Users\Tom Hoare\source\repos\AIProject2\Debug\AIProject2.exe
